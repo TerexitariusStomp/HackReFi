@@ -1,0 +1,620 @@
+Uri: http://hackrefinew.local/
+File Name: C:\Downloaded Web Sites\hackrefinew.local\index.htm
+Content Type: text/html
+
+Uri: http://hackrefinew.local/about/
+File Name: C:\Downloaded Web Sites\hackrefinew.local\about\index.htm
+Content Type: text/html
+
+Uri: http://hackrefinew.local/comments/feed/
+File Name: C:\Downloaded Web Sites\hackrefinew.local\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://hackrefinew.local/feed/
+File Name: C:\Downloaded Web Sites\hackrefinew.local\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://hackrefinew.local/services-copy/
+File Name: C:\Downloaded Web Sites\hackrefinew.local\services-copy\index.htm
+Content Type: text/html
+
+Uri: http://hackrefinew.local/services/
+File Name: C:\Downloaded Web Sites\hackrefinew.local\services\index.htm
+Content Type: text/html
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.7.2.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\css\all.min.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/css/v4-shims.min.css?ver=2.7.2.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: http://hackrefinew.local/wp-content/plugins/beaver-builder-lite-version/js/jquery.waypoints.min.js?ver=2.7.2.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\beaver-builder-lite-version\js\jquery.waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: http://hackrefinew.local/wp-content/plugins/ultimate-addons-for-beaver-builder-lite/modules/info-list/css/animate.css
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\plugins\ultimate-addons-for-beaver-builder-lite\modules\info-list\css\animate.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-content/themes/astra/assets/css/minified/compatibility/page-builder/bb-plugin.min.css?ver=4.3.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\themes\astra\assets\css\minified\compatibility\page-builder\bb-plugin.min.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.3.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\themes\astra\assets\css\minified\frontend.min.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: http://hackrefinew.local/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: application/font-sfnt
+
+Uri: http://hackrefinew.local/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: application/font-woff
+
+Uri: http://hackrefinew.local/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.3.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/11/quote-1.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\11\quote-1.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/12/about-bg-5.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\12\about-bg-5.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/12/project-background-1024x364.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\12\project-background-1024x364.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/12/project-background-1536x546.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\12\project-background-1536x546.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/12/project-background-300x107.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\12\project-background-300x107.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/12/project-background-768x273.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\12\project-background-768x273.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/12/project-background.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\12\project-background.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/12/services-3-300x187.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\12\services-3-300x187.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/12/services-3.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\12\services-3.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2018/12/services-bg.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2018\12\services-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2019/01/blog-6-free-img.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2019\01\blog-6-free-img.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2019/01/blog-bg-free-img.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2019\01\blog-bg-free-img.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2020/01/section-bg-img.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2020\01\section-bg-img.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2020/01/white-logo@2x.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2020\01\white-logo@2x.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2021/03/outdoor-image-02-300x200.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2021\03\outdoor-image-02-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2021/03/outdoor-image-02-768x513.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2021\03\outdoor-image-02-768x513.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2021/03/outdoor-image-02.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2021\03\outdoor-image-02.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2021/03/outdoor-image-03-300x187.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2021\03\outdoor-image-03-300x187.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2021/03/outdoor-image-03.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2021\03\outdoor-image-03.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/benefits-1024x493.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\benefits-1024x493.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/benefits-300x145.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\benefits-300x145.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/benefits-768x370.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\benefits-768x370.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/benefits.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\benefits.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/cinema-1024x743.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\cinema-1024x743.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/cinema-1536x1115.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\cinema-1536x1115.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/cinema-2048x1487.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\cinema-2048x1487.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/cinema-300x218.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\cinema-300x218.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/cinema-768x558.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\cinema-768x558.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/cinema-scaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\cinema-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/dubai-295x300.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\dubai-295x300.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/dubai.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\dubai.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/garden-1128x1536.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\garden-1128x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/garden-1505x2048.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\garden-1505x2048.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/garden-220x300.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\garden-220x300.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/garden-752x1024.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\garden-752x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/garden-768x1045.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\garden-768x1045.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/garden-scaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\garden-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/hackrefi-120x35.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\hackrefi-120x35.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/hackrefi.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\hackrefi.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/hangout-1024x677.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\hangout-1024x677.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/hangout-1536x1015.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\hangout-1536x1015.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/hangout-2048x1353.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\hangout-2048x1353.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/hangout-300x198.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\hangout-300x198.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/hangout-768x507.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\hangout-768x507.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/hangout-scaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\hangout-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_13.42.42_upscaled-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_13.42.42_upscaled-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_13.42.42_upscaled-150x150.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_13.42.42_upscaled-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_13.42.42_upscaled-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_13.42.42_upscaled-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_13.42.42_upscaled-300x300.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_13.42.42_upscaled-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_13.42.42_upscaled-768x768.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_13.42.42_upscaled-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_13.42.42_upscaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_13.42.42_upscaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.10.17_upscaled-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.10.17_upscaled-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.10.17_upscaled-150x150.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.10.17_upscaled-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.10.17_upscaled-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.10.17_upscaled-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.10.17_upscaled-300x300.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.10.17_upscaled-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.10.17_upscaled-768x768.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.10.17_upscaled-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.10.17_upscaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.10.17_upscaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.14.08_upscaled-1024x607.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.14.08_upscaled-1024x607.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.14.08_upscaled-1536x911.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.14.08_upscaled-1536x911.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.14.08_upscaled-300x178.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.14.08_upscaled-300x178.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.14.08_upscaled-768x455.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.14.08_upscaled-768x455.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.14.08_upscaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.14.08_upscaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.18.41_upscaled-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.18.41_upscaled-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.18.41_upscaled-150x150.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.18.41_upscaled-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.18.41_upscaled-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.18.41_upscaled-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.18.41_upscaled-300x300.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.18.41_upscaled-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.18.41_upscaled-768x768.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.18.41_upscaled-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.18.41_upscaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.18.41_upscaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.22.18_upscaled-284x300.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.22.18_upscaled-284x300.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.22.18_upscaled-768x811.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.22.18_upscaled-768x811.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.22.18_upscaled-970x1024.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.22.18_upscaled-970x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.22.18_upscaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.22.18_upscaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.56.02_upscaled-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.56.02_upscaled-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.56.02_upscaled-150x150.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.56.02_upscaled-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.56.02_upscaled-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.56.02_upscaled-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.56.02_upscaled-300x300.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.56.02_upscaled-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.56.02_upscaled-768x768.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.56.02_upscaled-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.56.02_upscaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.56.02_upscaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.57.49_upscaled-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.57.49_upscaled-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.57.49_upscaled-150x150.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.57.49_upscaled-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.57.49_upscaled-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.57.49_upscaled-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.57.49_upscaled-300x300.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.57.49_upscaled-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.57.49_upscaled-768x768.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.57.49_upscaled-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/JasperArt_2023-09-20_14.57.49_upscaled.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\JasperArt_2023-09-20_14.57.49_upscaled.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/logo2-modified-removebg-preview-150x150.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\logo2-modified-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/logo2-modified-removebg-preview.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\logo2-modified-removebg-preview.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/venue-300x250.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\venue-300x250.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/09/venue.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\09\venue.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/271-layout.css?ver=8134fc835b894c83dd61151d79c38146
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\271-layout.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/271-layout.js?ver=499d126089e950ed8ea4c31831582eed
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\271-layout.js
+Content Type: application/x-javascript
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/435-layout.css?ver=8fb96acfcff2652e3a10bcf1e2ea2fd8
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\435-layout.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/435-layout.js?ver=db3cc336bc99558af58bf89fdb6a81a7
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\435-layout.js
+Content Type: application/x-javascript
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.css?ver=9a61e9b3ee8792490bb3e4f7ba9b9033
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\436-layout.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.js?ver=d5b6a07ac111be91216085f12f789007
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\436-layout.js
+Content Type: application/x-javascript
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/505-layout.css?ver=1c611bf879e13d02bb62ef21e42cca5f
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\505-layout.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/505-layout.js?ver=499d126089e950ed8ea4c31831582eed
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\505-layout.js
+Content Type: application/x-javascript
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.svg?1ddi1j
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\icons\ultimate-icons\fonts\Ultimate-Icons.svg
+Content Type: image/svg+xml
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.ttf?1ddi1j
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\icons\ultimate-icons\fonts\Ultimate-Icons.ttf
+Content Type: application/font-sfnt
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.woff?1ddi1j
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\icons\ultimate-icons\fonts\Ultimate-Icons.woff
+Content Type: application/font-woff
+
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/icons/ultimate-icons/style.css?ver=2.7.2.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\icons\ultimate-icons\style.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-includes/css/dist/block-library/style.min.css?ver=6.3.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://hackrefinew.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://hackrefinew.local/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://hackrefinew.local/wp-json/
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://hackrefinew.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fhackrefinew.local%2F
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://hackrefinew.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fhackrefinew.local%2F&format=xml
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://hackrefinew.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fhackrefinew.local%2Fabout%2F
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://hackrefinew.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fhackrefinew.local%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://hackrefinew.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fhackrefinew.local%2Fservices%2F
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://hackrefinew.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fhackrefinew.local%2Fservices%2F&format=xml
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://hackrefinew.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fhackrefinew.local%2Fservices-copy%2F
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://hackrefinew.local/wp-json/oembed/1.0/embed?url=http:%2F%2Fhackrefinew.local%2Fservices-copy%2F&format=xml
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://hackrefinew.local/wp-json/wp/v2/pages/271
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\wp\v2\pages\271
+Content Type: application/json
+
+Uri: http://hackrefinew.local/wp-json/wp/v2/pages/435
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\wp\v2\pages\435
+Content Type: application/json
+
+Uri: http://hackrefinew.local/wp-json/wp/v2/pages/436
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\wp\v2\pages\436
+Content Type: application/json
+
+Uri: http://hackrefinew.local/wp-json/wp/v2/pages/505
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-json\wp\v2\pages\505
+Content Type: application/json
+
+Uri: http://hackrefinew.local/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\hackrefinew.local\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Noto+Sans:400%2C700|Montserrat:700%2C&display=fallback&ver=4.3.1
+File Name: C:\Downloaded Web Sites\hackrefinew.local\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\hackrefinew.local\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v30/o-0IIpQlx3QUlC5A4PNr5TRF.ttf
+File Name: C:\Downloaded Web Sites\hackrefinew.local\s\notosans\v30\o-0IIpQlx3QUlC5A4PNr5TRF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v30/o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
+File Name: C:\Downloaded Web Sites\hackrefinew.local\s\notosans\v30\o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
+Content Type: font/ttf
+
