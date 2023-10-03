@@ -506,16 +506,16 @@ Uri: http://hackrefinew.local/wp-content/uploads/2023/10/charmverse.jpg
 File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\10\charmverse.jpg
 Content Type: image/jpeg
 
-Uri: http://hackrefinew.local/wp-content/uploads/2023/10/hackclub-300x105.png
-File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\10\hackclub-300x105.png
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/hcb-icon-icon-original-150x150.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\10\hcb-icon-icon-original-150x150.png
 Content Type: image/png
 
-Uri: http://hackrefinew.local/wp-content/uploads/2023/10/hackclub-768x269.png
-File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\10\hackclub-768x269.png
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/hcb-icon-icon-original-300x300.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\10\hcb-icon-icon-original-300x300.png
 Content Type: image/png
 
-Uri: http://hackrefinew.local/wp-content/uploads/2023/10/hackclub.png
-File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\10\hackclub.png
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/hcb-icon-icon-original.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\2023\10\hcb-icon-icon-original.png
 Content Type: image/png
 
 Uri: http://hackrefinew.local/wp-content/uploads/2023/10/minerva.png
@@ -538,11 +538,11 @@ Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/435-layout.js?v
 File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\435-layout.js
 Content Type: application/x-javascript
 
-Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.css?ver=bee656c6c78f3857646c6bcf3e6c9fb9
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.css?ver=5f6d6f45847e6c0f3134b625f2343a43
 File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\436-layout.css
 Content Type: text/css
 
-Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.js?ver=dc2f48ffe2fd257d0ab0e66ed5ff170e
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.js?ver=6f1cd188fe6a7d75cfe820c6f86c4b85
 File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\436-layout.js
 Content Type: application/x-javascript
 
