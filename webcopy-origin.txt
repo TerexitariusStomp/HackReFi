@@ -574,7 +574,7 @@ Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.js?v
 File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\436-layout.js
 Content Type: application/x-javascript
 
-Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/505-layout.css?ver=ff7b735d5693eed9b89f4d400c04dff9
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/505-layout.css?ver=9f47fd419ebad46126e86e0703438da8
 File Name: C:\Downloaded Web Sites\hackrefinew.local\wp-content\uploads\bb-plugin\cache\505-layout.css
 Content Type: text/css
 
@@ -674,11 +674,11 @@ Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFg
 File Name: C:\Downloaded Web Sites\hackrefinew.local\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/notosans/v30/o-0IIpQlx3QUlC5A4PNr5TRF.ttf
-File Name: C:\Downloaded Web Sites\hackrefinew.local\s\notosans\v30\o-0IIpQlx3QUlC5A4PNr5TRF.ttf
+Uri: https://fonts.gstatic.com/s/notosans/v32/o-0IIpQlx3QUlC5A4PNr5TRF.ttf
+File Name: C:\Downloaded Web Sites\hackrefinew.local\s\notosans\v32\o-0IIpQlx3QUlC5A4PNr5TRF.ttf
 Content Type: font/ttf
 
-Uri: https://fonts.gstatic.com/s/notosans/v30/o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
-File Name: C:\Downloaded Web Sites\hackrefinew.local\s\notosans\v30\o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
+Uri: https://fonts.gstatic.com/s/notosans/v32/o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
+File Name: C:\Downloaded Web Sites\hackrefinew.local\s\notosans\v32\o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
 Content Type: font/ttf
 
