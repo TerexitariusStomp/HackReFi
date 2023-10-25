@@ -430,6 +430,22 @@ Uri: http://hackrefinew.local/wp-content/uploads/2023/10/charmverse.jpg
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\charmverse.jpg
 Content Type: image/jpeg
 
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/enjin-150x150.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\enjin-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/enjin-300x300.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\enjin-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/enjin-768x768.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\enjin-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/enjin.jpg
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\enjin.jpg
+Content Type: image/jpeg
+
 Uri: http://hackrefinew.local/wp-content/uploads/2023/10/hcb-icon-icon-original-150x150.png
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\hcb-icon-icon-original-150x150.png
 Content Type: image/png
@@ -444,6 +460,38 @@ Content Type: image/png
 
 Uri: http://hackrefinew.local/wp-content/uploads/2023/10/minerva.png
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\minerva.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/NCFA-Asset-2@4x-1024x396.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\NCFA-Asset-2@4x-1024x396.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/NCFA-Asset-2@4x-1536x594.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\NCFA-Asset-2@4x-1536x594.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/NCFA-Asset-2@4x-2048x791.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\NCFA-Asset-2@4x-2048x791.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/NCFA-Asset-2@4x-300x116.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\NCFA-Asset-2@4x-300x116.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/NCFA-Asset-2@4x-768x297.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\NCFA-Asset-2@4x-768x297.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/sandangellogo-150x150.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\sandangellogo-150x150.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/sandangellogo-300x300.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\sandangellogo-300x300.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/sandangellogo.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\sandangellogo.png
 Content Type: image/png
 
 Uri: http://hackrefinew.local/wp-content/uploads/2023/10/Screenshot-2023-10-18-120136-300x132.png
@@ -486,11 +534,11 @@ Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/435-layout.js?v
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\bb-plugin\cache\435-layout.js
 Content Type: application/x-javascript
 
-Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.css?ver=5f6d6f45847e6c0f3134b625f2343a43
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.css?ver=95b7b701508a2c1c6ba62ca30d07de34
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\bb-plugin\cache\436-layout.css
 Content Type: text/css
 
-Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.js?ver=6f1cd188fe6a7d75cfe820c6f86c4b85
+Uri: http://hackrefinew.local/wp-content/uploads/bb-plugin/cache/436-layout.js?ver=9a617de1fb44a2747bd40ede01fc41f0
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\bb-plugin\cache\436-layout.js
 Content Type: application/x-javascript
 
@@ -585,10 +633,6 @@ Content Type: application/json
 Uri: http://hackrefinew.local/xmlrpc.php?rsd
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\xmlrpc.php
 Content Type: text/xml
-
-Uri: https://dorahacks.io/hackathon/hackrefi/detail
-File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\hackathon\hackrefi\detail
-Content Type: 
 
 Uri: https://fonts.googleapis.com/css?family=Noto+Sans:400%2C700|Montserrat:700%2C&display=fallback&ver=4.3.1
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\css
