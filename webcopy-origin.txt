@@ -434,6 +434,14 @@ Uri: http://hackrefinew.local/wp-content/uploads/2023/10/charmverse.jpg
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\charmverse.jpg
 Content Type: image/jpeg
 
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/flyer-300x163.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\flyer-300x163.png
+Content Type: image/png
+
+Uri: http://hackrefinew.local/wp-content/uploads/2023/10/flyer.png
+File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\flyer.png
+Content Type: image/png
+
 Uri: http://hackrefinew.local/wp-content/uploads/2023/10/hcb-icon-icon-original-150x150.png
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\hcb-icon-icon-original-150x150.png
 Content Type: image/png
@@ -480,18 +488,6 @@ Content Type: image/png
 
 Uri: http://hackrefinew.local/wp-content/uploads/2023/10/sandangellogo.png
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\sandangellogo.png
-Content Type: image/png
-
-Uri: http://hackrefinew.local/wp-content/uploads/2023/10/Screenshot-2023-10-18-120136-300x132.png
-File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\Screenshot-2023-10-18-120136-300x132.png
-Content Type: image/png
-
-Uri: http://hackrefinew.local/wp-content/uploads/2023/10/Screenshot-2023-10-18-120136-768x337.png
-File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\Screenshot-2023-10-18-120136-768x337.png
-Content Type: image/png
-
-Uri: http://hackrefinew.local/wp-content/uploads/2023/10/Screenshot-2023-10-18-120136.png
-File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\wp-content\uploads\2023\10\Screenshot-2023-10-18-120136.png
 Content Type: image/png
 
 Uri: http://hackrefinew.local/wp-content/uploads/2023/10/tr-150x150.jpeg
@@ -621,10 +617,6 @@ Content Type: application/json
 Uri: http://hackrefinew.local/xmlrpc.php?rsd
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\xmlrpc.php
 Content Type: text/xml
-
-Uri: https://dorahacks.io/hackathon/hackrefi/detail
-File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\hackathon\hackrefi\detail
-Content Type: 
 
 Uri: https://fonts.googleapis.com/css?family=Noto+Sans:400%2C700|Montserrat:700%2C&display=fallback&ver=4.3.1
 File Name: C:\Downloaded Web Sites\hackrefinew.local\hackrefinew.local\css
